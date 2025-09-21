@@ -8,5 +8,10 @@ const tampilData = async(link)=>{const data = await getApi(link)
 console.log(data)
 }
 
-const buku = tampilData(API)
+// const buku = tampilData(API)
 
+// module.exports = getApi;
+module.exports = tampilData;
+// module.exports = API;
+
+// console.log('aman aja kawan')
