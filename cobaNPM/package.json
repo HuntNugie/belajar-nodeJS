@@ -1,0 +1,14 @@
+{
+  "name": "cobanpm",
+  "version": "1.0.0",
+  "description": "mencoba npm",
+  "license": "ISC",
+  "author": "Nugie kurniawan",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
